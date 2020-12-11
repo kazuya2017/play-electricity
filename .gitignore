@@ -1,6 +1,5 @@
 logs
 target
-resource
 /.vscode
 /.idea
 /.idea_modules
@@ -12,5 +11,3 @@ resource
 /.g8/
 /.metals/
 project/target
-test/resources/HomeEnergyLogs.csv
-.gitignore
